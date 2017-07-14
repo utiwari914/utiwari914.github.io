@@ -492,12 +492,6 @@ h6,
 #msg-box8-m p {
   color: #fff;
 }
-#features1-n .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #ffffff;
-}
-#features1-n .mbr-cards-col:nth-child(odd) .card-title {
-  color: #2e2e2e;
-}
 #social-buttons4-p .mbr-section-title,
 #social-buttons4-p .btn-social {
   color: #fff;

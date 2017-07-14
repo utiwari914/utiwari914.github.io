@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 27,
+    "uniqCompNum": 28,
     "versionPublish": "4.0.12"
   },
   "pages": {
@@ -214,8 +214,8 @@
             }
           },
           "title": "MY WORK FOR ANDROID:<br><span style=\"font-weight: normal;\">UNIVERSAL SPROUT CONVERTER</span>",
-          "text": "This is basically a patch which helps convert your ANDROID ONE(FIRST GEN) sprout4 based ROM to sprout8 based ROM and vice versa without needing to perform any data wipes.<br><br>TO CONVERT YOUR ROM JUST CHOSE APPROPRIATE PATCH AND FLASH THE ZIP IN CUSTOM RECOVERY<br><br>You may download the latest version from below link",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.androidfilehost.com/?w=files&amp;flid=187820\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
+          "text": "This is basically a patch which helps convert your ANDROID ONE(FIRST GEN) sprout4 based ROM to sprout8 based ROM and vice versa without needing to perform any data wipes.<br><br>TO CONVERT YOUR ROM JUST CHOSE APPROPRIATE PATCH AND FLASH THE ZIP IN CUSTOM RECOVERY<br><br>Visit XDA Thread for more information",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://forum.xda-developers.com/crossdevice-dev/android-one-general/universal-sprout4-to-sprout8-sprout8-to-t3489646\" data-toolbar=\"-mbrBtnMove\">XDA THREAD</a>",
           "_tags": [
             "Theme"
           ],
@@ -253,7 +253,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">ABOUT ME</span>",
-          "text": "<p>I'm basically a 17 year old student. I like to tweak, mod, and tinker with android. I love to code. I know some basics of JAVA, HTML, &amp; PYTHON.</p>",
+          "text": "<p>I'm a boy of 17. I like to tweak, mod, and tinker with android. I love to code. I know some basics of JAVA, HTML, &amp; PYTHON.&nbsp;</p><p>DEVELOPER || STUDENT || A NOOB HACKER 😜</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -268,15 +268,14 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": true,
-            "columnsColor": "#ffffff",
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -287,7 +286,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ruerkxt8-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/xda-1-250x250.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -299,7 +298,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/github-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/github-250x250.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -311,10 +310,14 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ruerkxt8-255x250.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -341,13 +344,13 @@
               "active": true
             }
           },
-          "title1": "MY ANDROIDFILEHOST",
+          "title1": "XDA-DEVELOPERS PROFILE",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "MY GITHUB",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
+          "title3": "MY ANDROIDFILEHOST",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -359,25 +362,17 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.androidfilehost.com/?w=profile&amp;uid=24269982086999511\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LINK</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://github.com/utiwari914\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LINK</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://forum.xda-developers.com/member.php?u=5138012\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GO HERE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://github.com/utiwari914\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GO HERE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.androidfilehost.com/?w=profile&amp;uid=24269982086999511\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GO HERE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "features1",
-          "_anchor": "features1-n",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#2e2e2e"
-            }
-          }
+          "_name": "features3",
+          "_anchor": "features3-r"
         },
         {
           "_inherit": "social-buttons2",
@@ -422,7 +417,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "CONTACT FORM",
+          "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
           "subtitle": "Leave me a message.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>",
           "form": {
@@ -437,9 +432,9 @@
                 "customTitle": "Name*"
               },
               "email": {
-                "visible": false,
+                "visible": true,
                 "title": "Email",
-                "customTitle": "Email*"
+                "customTitle": "Email or phone*"
               },
               "phone": {
                 "visible": false,
