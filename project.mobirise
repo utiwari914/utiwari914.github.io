@@ -35,7 +35,7 @@
       "settings": {
         "main": true,
         "title": "Utkarsh Tiwari",
-        "meta_descr": "",
+        "meta_descr": "Utkarsh Tiwari official website, Utkarsh, Tiwari, Utkarsh Tiwari, Tripathi, Geek, utiwari414, technical boys, infinity gyaan, utiwari223, Amisha Tiwari, Swapnil, Varun, Geeky, Geeky_Uttu, Geeky Utkarsh, Tech Geek, GeekyUtkarsh, Uttu, utiwari914, utkarsh914, tiwari914, uttus, Technical Boy, Github, Androidfilehost, afh, sprout, Android, Android one, Android one first gen, first gen, converter, convert, how to, DIY, sprout converter, sprout4, sprout8, convert your sprout, xda, git, senior member, Utkarsh_Tiwari, geeks, sprout4 to sprout8, sprout8 to sprout4, fly, convert on fly, patch, flash, zip, xda thread, threads, Android one general, Hacker, official web, web portal, Uttu website, Utkarsh Tiwari web site, utkarsh webpage",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -117,24 +117,26 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "user",
+              "name": "android",
               "family": "MobiriseIcons",
               "link": "",
               "size": 0,
-              "active": true,
-              "newWindow": false
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"utiwari914.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">UTKARSH TIWARI</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-k\">MY WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-m\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-p\">FOLLOW ME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-k\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -224,6 +226,9 @@
           "_styles": {
             "H3": {
               "font-size": "32px"
+            },
+            "SPAN": {
+              "font-size": "24px"
             }
           }
         },
@@ -434,7 +439,7 @@
               "email": {
                 "visible": true,
                 "title": "Email",
-                "customTitle": "Email or phone*"
+                "customTitle": "Email"
               },
               "phone": {
                 "visible": false,
@@ -443,7 +448,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message*"
               }
             }
           },

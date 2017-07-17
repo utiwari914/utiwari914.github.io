@@ -488,6 +488,9 @@ h6,
 #msg-box5-k H3 {
   font-size: 32px;
 }
+#msg-box5-k SPAN {
+  font-size: 24px;
+}
 #msg-box8-m .mbr-section-title,
 #msg-box8-m p {
   color: #fff;
