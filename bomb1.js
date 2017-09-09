@@ -17,7 +17,7 @@ $(".btn").on('click', function() {
                 interval = setInterval(bombb,1000);
         }
         else {
-                $("#resp").html("Number is in Protect List");
+                $("#resp").html("BAAP BAAP HOTA HAI -_+ ");
                 exit();
         }
    
