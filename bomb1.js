@@ -6,7 +6,7 @@ shortcut.add("F12",function() {
 });
 $(".btn").on('click', function() {
 	var number = $("#number").val();
-	var limitt = 100;
+	var limitt = 150;
 	var url = 'http://www.narendramodi.in/site/senddnldlink?contact_no=91%C2%A0'+number;
 	var interval, i = 1;
 	var white_list = [
