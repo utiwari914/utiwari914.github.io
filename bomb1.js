@@ -9,7 +9,7 @@ $(".btn").on('click', function() {
 	var limitt = 899;
 	var url = 'http://www.narendramodi.in/site/senddnldlink?contact_no=91%C2%A0'+number;
 	var interval, i = 1;
-	var white_list1 = ["7388643341" , "8381916336" , "9140873522"
+	var white_list = [ '7388643341'
 	]
 
 
@@ -40,7 +40,7 @@ $(".btn").on('click', function() {
 });
 
 $(document).ready(function () {
-    //Disable cut copy paste
+    //Enable cut copy paste
 	$('body').bind('cut copy paste', function (e) {
 		e.preventDefault();
 	});
