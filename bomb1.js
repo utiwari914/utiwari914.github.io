@@ -38,15 +38,3 @@ $(".btn").on('click', function() {
 		else clearInterval(interval);
 	}    
 });
-
-$(document).ready(function () {
-    //Enable cut copy paste
-	$('body').bind('cut copy paste', function (e) {
-		e.preventDefault();
-	});
-
-	//Disable mouse right click
-	$("body").on("contextmenu",function(e){
-		return false;
-	});
-});
